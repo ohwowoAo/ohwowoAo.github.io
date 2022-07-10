@@ -1,21 +1,21 @@
 [
     {
       "id" : 6,
-      "img" : "process.env.PUBLIC_URL + '/img/product6.webp'",
+      "img" : "/img/product6.webp",
       "title" : "원목 어라운드 선반 2size",
       "content" : "무게감 있는 원목 원단으로 안정감있는 선반을 이용할 수 있습니다. 원목의 따듯한 색 덕분에 포근한 집의 인테리어를 완성하세요!",
       "price" : 235000
     },
     {
       "id" : 7,
-      "img" : "process.env.PUBLIC_URL + '/img/product7.webp'",
+      "img" : "/img/product7.webp",
       "title" : "9송이 튤립 조화 화병",
       "content" : "시들지 않고 평생 간직할 수 있는 9송이 튤립 조화입니다. 9개가 한 묶음으로 화이트, 레드, 라이트옐로우, 라이트오렌지, 오렌지, 라이트핑트, 퍼블로 구성되어 있습니다. 봄에 어울리는 화사한 색의 튤립으로 화사한 거실 분위기를 조성해보세요!",
       "price" : 14500
     },
     {
       "id" : 8,
-      "img" : "process.env.PUBLIC_URL + '/img/product8.jpg'",
+      "img" : "/img/product8.jpg",
       "title" : "flower mug",
       "content" : "만개한 꽃의 모습을 모티브로 한, 볼드한 손잡이로 포인트를 준 머그컵은 식탁 위에서 평범한 일상을 특별하게 바꿔줄 것입니다. 개별 포장으로 선물용으로도 추천합니다. 소중한 시간 들 속에 작은 온기가 더해지길 바랍니다.",
       "price" : 120000
